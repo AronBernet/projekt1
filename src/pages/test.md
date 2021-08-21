@@ -1,5 +1,5 @@
 ---
-title: Mein Titel
+title: Mein neuer Titel
 
 ---
 \#this is a test
